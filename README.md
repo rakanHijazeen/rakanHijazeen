@@ -6,7 +6,7 @@ I am an ambitious and technically grounded **Junior AI Engineer** pursuing a Bac
 
 ### 🚀 Technical Overview
 
-- **AI & Agentic Workflows:** Retrieval-Augmented Generation (RAG), Semantic Search (`pgvector`), Custom Extraction pipelines, LLM Tool-Calling (Llama 3.1, Groq API).
+- **AI & Agentic Workflows:** Conversational Retrieval-Augmented Generation (RAG), Context-Aware Agents, Semantic Search (`pgvector`), Custom Extraction pipelines, LLM Tool-Calling (Llama 3.1, Groq API).
 - **Backend & Production Engineering:** Python, Django, Streamlit, PostgreSQL, REST APIs, Docker, and AWS cloud foundations.
 
 ---
@@ -14,7 +14,8 @@ I am an ambitious and technically grounded **Junior AI Engineer** pursuing a Bac
 ### 💻 Key Projects
 
 #### 🩺 [Medical AI Suite](https://github.com/rakanHijazeen/Medical-AI-Suite)
-An end-to-end diagnostic decision support prototype that combines traditional machine learning classifiers with an advanced, multi-service RAG pipeline.
+An end-to-end diagnostic decision support prototype that combines traditional machine learning classifiers with an advanced, multi-service **Conversational RAG pipeline**.
+- Engineered a stateful **Conversational RAG system** allowing users to interactively query medical data while maintaining dialogue context and chat history.
 - Containerized using **Docker** for seamless local pipeline replication.
 - Implemented vector embeddings via **`pgvector`** for semantic data retrieval.
 - Engineered a pipeline to parse data and auto-generate comprehensive evaluation reports.
